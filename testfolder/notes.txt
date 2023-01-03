@@ -1,0 +1,10 @@
+terminal hot keys 
+ls = list contents of the directory
+touch *file name* = create new file
+mkdir *folder name* = create new folder
+cd *folder name* = change directory (move around in the directory)
+cat *file name* = print all the text in that file
+mv *file name* *folder to move to* = (move to different directory) 
+rm *file name* = delete file
+use tab to autofill the rest of file name once you've started typing
+Ctrl+C = end current terminal process, get back to prompt
