@@ -10,3 +10,7 @@
 
 This is an example of a GitHub repository.
 Changed to have a change. Now no change
+
+1. Make the Change. 
+2. Stage the change. Add comment to it.
+3. Commit and sync the change.
